@@ -1,0 +1,40 @@
+table{
+    border: 1px solid black;
+    border-collapse: collapse;
+
+    
+    }
+    th{
+    border: 1px solid black;
+    text-align: center;
+    padding: 8px;
+    }
+    td{
+    border: 1px solid black;
+    text-align: center;
+    padding: 8px;
+    }
+    thead{
+    background-color: rgb(58, 158, 58);
+    color: white;
+    }
+    tfoot{
+    background-color:rgb(58, 158, 58);
+    color: white;
+    }
+    .row12{
+    background-color:#a2fa92;
+    }
+    .tab{
+    background-color: rgba(148, 148, 150, 0.986);
+    }
+    .ravi{
+        margin-left: 200px;
+        margin-top: 50px;
+    }
+    caption{
+        margin-left: 500px;
+    }
+    table{
+        border: 10px solid red;
+    }
